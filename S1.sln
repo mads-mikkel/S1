@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg02_DataTypes", "Opg02_Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg03_Console", "Opg03_Console\Opg03_Console.csproj", "{852F2BFD-58B2-4CCD-A1EB-0B1BC283D84E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave04_ReadLine", "Opgave04_ReadLine\Opgave04_ReadLine.csproj", "{4E07FF9B-3C37-4A25-8F0F-BA4A62896FF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{852F2BFD-58B2-4CCD-A1EB-0B1BC283D84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{852F2BFD-58B2-4CCD-A1EB-0B1BC283D84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{852F2BFD-58B2-4CCD-A1EB-0B1BC283D84E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E07FF9B-3C37-4A25-8F0F-BA4A62896FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E07FF9B-3C37-4A25-8F0F-BA4A62896FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E07FF9B-3C37-4A25-8F0F-BA4A62896FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E07FF9B-3C37-4A25-8F0F-BA4A62896FF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
