@@ -15,8 +15,8 @@ namespace Opg05_Arithmetic_1
 
             // Indhent første tal fra brugeren og konverter:
             Console.WriteLine("Indtast andet tal:");
-            string secoondNumberInput = Console.ReadLine();
-            int secondNumber = Convert.ToInt32(secoondNumberInput);
+            string secondNumberInput = Console.ReadLine();
+            int secondNumber = Convert.ToInt32(secondNumberInput);
 
             // Foretag den aritmetiske operation, og gem i en variabel:
             int result = firstNumber + secondNumber;

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05_Arithmetic_1", "Opg05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05_Arithmetic_2", "Opg05_Arithmetic_2\Opg05_Arithmetic_2.csproj", "{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05_Arithmetic_3", "Opg05_Arithmetic_3\Opg05_Arithmetic_3.csproj", "{5D8D664D-CA9E-49F8-953C-ABDCD27D570D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05_Arithmetic_4", "Opg05_Arithmetic_4\Opg05_Arithmetic_4.csproj", "{5E53A32C-360C-4D7C-8F53-67217B53D404}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,14 @@ Global
 		{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8D664D-CA9E-49F8-953C-ABDCD27D570D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8D664D-CA9E-49F8-953C-ABDCD27D570D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8D664D-CA9E-49F8-953C-ABDCD27D570D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8D664D-CA9E-49F8-953C-ABDCD27D570D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E53A32C-360C-4D7C-8F53-67217B53D404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E53A32C-360C-4D7C-8F53-67217B53D404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E53A32C-360C-4D7C-8F53-67217B53D404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E53A32C-360C-4D7C-8F53-67217B53D404}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -54,6 +66,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E3A84C12-F6B9-48CA-AB19-9A38AEED4BE7} = {CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}
 		{CFF6B82B-1FAF-477F-8514-28FDC938FDF1} = {CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}
+		{5D8D664D-CA9E-49F8-953C-ABDCD27D570D} = {CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}
+		{5E53A32C-360C-4D7C-8F53-67217B53D404} = {CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C6E0AFF-5BDD-4FB0-B586-00E626B0E668}
