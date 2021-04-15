@@ -2,7 +2,7 @@
 
 namespace Opg05_Arithmetic_1
 {
-    class Program
+    class CalculatorProgram1
     {
         static void Main(string[] args)
         {
@@ -22,7 +22,7 @@ namespace Opg05_Arithmetic_1
             int result = firstNumber + secondNumber;
 
             // Udskriv resultatet:
-            Console.WriteLine($"{firstNumber} + {secondNumber} = {result}");
+            Console.WriteLine($"{firstNumber} + {secondNumber} = {result}");    
         }
     }
 }

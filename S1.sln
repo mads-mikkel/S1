@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Opg05_Arithmetic", "Opg05_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05_Arithmetic_1", "Opg05_Arithmetic_1\Opg05_Arithmetic_1.csproj", "{E3A84C12-F6B9-48CA-AB19-9A38AEED4BE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05_Arithmetic_2", "Opg05_Arithmetic_2\Opg05_Arithmetic_2.csproj", "{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,12 +43,17 @@ Global
 		{E3A84C12-F6B9-48CA-AB19-9A38AEED4BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3A84C12-F6B9-48CA-AB19-9A38AEED4BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3A84C12-F6B9-48CA-AB19-9A38AEED4BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E3A84C12-F6B9-48CA-AB19-9A38AEED4BE7} = {CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}
+		{CFF6B82B-1FAF-477F-8514-28FDC938FDF1} = {CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C6E0AFF-5BDD-4FB0-B586-00E626B0E668}
