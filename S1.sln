@@ -7,19 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg01_Intro", "Opg01_Intro\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg02_DataTypes", "Opg02_DataTypes\Opg02_DataTypes.csproj", "{7015E4A3-9A0C-437E-BACF-EF518F7829B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg03_Console", "Opg03_Console\Opg03_Console.csproj", "{852F2BFD-58B2-4CCD-A1EB-0B1BC283D84E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg03_Console", "Opg03_Console\Opg03_Console.csproj", "{852F2BFD-58B2-4CCD-A1EB-0B1BC283D84E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave04_ReadLine", "Opgave04_ReadLine\Opgave04_ReadLine.csproj", "{4E07FF9B-3C37-4A25-8F0F-BA4A62896FF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg04_ReadLine", "Opgave04_ReadLine\Opg04_ReadLine.csproj", "{4E07FF9B-3C37-4A25-8F0F-BA4A62896FF2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Opg05_Arithmetic", "Opg05_Arithmetic", "{CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg05_Arithmetic_1", "Opg05_Arithmetic_1\Opg05_Arithmetic_1.csproj", "{E3A84C12-F6B9-48CA-AB19-9A38AEED4BE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05_Arithmetic_1", "Opg05_Arithmetic_1\Opg05_Arithmetic_1.csproj", "{E3A84C12-F6B9-48CA-AB19-9A38AEED4BE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg05_Arithmetic_2", "Opg05_Arithmetic_2\Opg05_Arithmetic_2.csproj", "{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05_Arithmetic_2", "Opg05_Arithmetic_2\Opg05_Arithmetic_2.csproj", "{CFF6B82B-1FAF-477F-8514-28FDC938FDF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg05_Arithmetic_3", "Opg05_Arithmetic_3\Opg05_Arithmetic_3.csproj", "{5D8D664D-CA9E-49F8-953C-ABDCD27D570D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05_Arithmetic_3", "Opg05_Arithmetic_3\Opg05_Arithmetic_3.csproj", "{5D8D664D-CA9E-49F8-953C-ABDCD27D570D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg05_Arithmetic_4", "Opg05_Arithmetic_4\Opg05_Arithmetic_4.csproj", "{5E53A32C-360C-4D7C-8F53-67217B53D404}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg05_Arithmetic_4", "Opg05_Arithmetic_4\Opg05_Arithmetic_4.csproj", "{5E53A32C-360C-4D7C-8F53-67217B53D404}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg06A_Comparison", "Opg06_Comparison\Opg06A_Comparison.csproj", "{0165FC70-2E67-4E3C-97D7-7E7CBE58917D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg6B_Comparison_2_Huskøb", "Opg6B_Comparison\Opg6B_Comparison_2_Huskøb.csproj", "{44EA219B-4A1C-4E5C-A827-679CE9E79219}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,15 +61,17 @@ Global
 		{5E53A32C-360C-4D7C-8F53-67217B53D404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E53A32C-360C-4D7C-8F53-67217B53D404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E53A32C-360C-4D7C-8F53-67217B53D404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0165FC70-2E67-4E3C-97D7-7E7CBE58917D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0165FC70-2E67-4E3C-97D7-7E7CBE58917D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0165FC70-2E67-4E3C-97D7-7E7CBE58917D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0165FC70-2E67-4E3C-97D7-7E7CBE58917D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EA219B-4A1C-4E5C-A827-679CE9E79219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EA219B-4A1C-4E5C-A827-679CE9E79219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EA219B-4A1C-4E5C-A827-679CE9E79219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EA219B-4A1C-4E5C-A827-679CE9E79219}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{E3A84C12-F6B9-48CA-AB19-9A38AEED4BE7} = {CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}
-		{CFF6B82B-1FAF-477F-8514-28FDC938FDF1} = {CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}
-		{5D8D664D-CA9E-49F8-953C-ABDCD27D570D} = {CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}
-		{5E53A32C-360C-4D7C-8F53-67217B53D404} = {CCC13C67-4CBA-43D8-B448-A4AD15F77E5C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C6E0AFF-5BDD-4FB0-B586-00E626B0E668}
