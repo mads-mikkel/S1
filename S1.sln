@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_3_Division",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_4_LargestNumber", "Opg07_IfElse_7_4_LargestNumber\Opg07_IfElse_7_4_LargestNumber.csproj", "{000C5A86-1867-4A50-BB6D-A8BCA407F681}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_5_AscendingOrder", "Opg07_IfElse_7_5_AscendingOrder\Opg07_IfElse_7_5_AscendingOrder.csproj", "{EA92C051-719F-4FA5-9B2B-7B1393278DB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{000C5A86-1867-4A50-BB6D-A8BCA407F681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{000C5A86-1867-4A50-BB6D-A8BCA407F681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{000C5A86-1867-4A50-BB6D-A8BCA407F681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA92C051-719F-4FA5-9B2B-7B1393278DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA92C051-719F-4FA5-9B2B-7B1393278DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA92C051-719F-4FA5-9B2B-7B1393278DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA92C051-719F-4FA5-9B2B-7B1393278DB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
