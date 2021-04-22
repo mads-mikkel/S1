@@ -2,7 +2,7 @@
 
 namespace Opg6B_Comparison_2_Huskøb
 {
-    class ComparisonOperatorsProgram
+    class HouseBuyProgram
     {
         static void Main(string[] args)
         {
