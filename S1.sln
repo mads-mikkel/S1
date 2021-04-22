@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_5_AscendingO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_6_PositiveNegative", "Opg07_IfElse_7_6_PositiveNegative\Opg07_IfElse_7_6_PositiveNegative.csproj", "{302CF41D-9AF9-43AE-85FF-58DA8FBA90D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_7_Letter", "Opg07_IfElse_7_7_Letter\Opg07_IfElse_7_7_Letter.csproj", "{C9BEB8BA-DFAE-4F38-8FE2-E8469AFDFB4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{302CF41D-9AF9-43AE-85FF-58DA8FBA90D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{302CF41D-9AF9-43AE-85FF-58DA8FBA90D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{302CF41D-9AF9-43AE-85FF-58DA8FBA90D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BEB8BA-DFAE-4F38-8FE2-E8469AFDFB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BEB8BA-DFAE-4F38-8FE2-E8469AFDFB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BEB8BA-DFAE-4F38-8FE2-E8469AFDFB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BEB8BA-DFAE-4F38-8FE2-E8469AFDFB4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

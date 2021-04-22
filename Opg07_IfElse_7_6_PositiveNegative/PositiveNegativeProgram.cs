@@ -2,7 +2,7 @@
 
 namespace Opg07_IfElse_7_6_PositiveNegative
 {
-    class PosotiveNegativeProgram
+    class PositiveNegativeProgram
     {
         static void Main(string[] args)
         {
