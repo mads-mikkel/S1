@@ -12,7 +12,7 @@ namespace Opg07_IfElse_7_7_Letter
 
             int weight = Convert.ToInt32(weightInput);
 
-            decimal price = default;    // Her anvender jeg en variabel, som jeg bagefter tildeler en værdi i if-else kontrolstrukturen. Først når dette er sket, udskriver jeg variablen.
+            decimal price = 0.0m;    // Her anvender jeg en variabel, som jeg bagefter tildeler en værdi i if-else kontrolstrukturen. Først når dette er sket, udskriver jeg variablen.
             if(weight < 20)
             {
                 price = 5m;
@@ -35,7 +35,7 @@ namespace Opg07_IfElse_7_7_Letter
             }
             else
             {
-                price = 30m;
+                //price = 30m;
             }
 
             Console.WriteLine($"Porto: {price:c2}");

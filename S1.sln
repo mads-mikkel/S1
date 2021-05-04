@@ -23,23 +23,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg06A_Comparison", "Opg06_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg06B_Comparison_2_Huskøb", "Opg6B_Comparison\Opg06B_Comparison_2_Huskøb.csproj", "{44EA219B-4A1C-4E5C-A827-679CE9E79219}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg06B_Comparison_Alcohol", "Opg06B_Comparison_Alcohol\Opg06B_Comparison_Alcohol.csproj", "{D6DD8272-155B-4D8F-9448-5F9A06A1DDFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg06B_Comparison_Alcohol", "Opg06B_Comparison_Alcohol\Opg06B_Comparison_Alcohol.csproj", "{D6DD8272-155B-4D8F-9448-5F9A06A1DDFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_1_Discount", "Opg07_IfElse_7_1_Discount\Opg07_IfElse_7_1_Discount.csproj", "{53CEC953-9390-4DCF-B4FC-6FF5248BDAA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg07_IfElse_7_1_Discount", "Opg07_IfElse_7_1_Discount\Opg07_IfElse_7_1_Discount.csproj", "{53CEC953-9390-4DCF-B4FC-6FF5248BDAA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_2_TwoEquals", "Opg07_IfElse_7_2_TwoEquals\Opg07_IfElse_7_2_TwoEquals.csproj", "{54328832-8032-41DE-B94C-871000044AE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg07_IfElse_7_2_TwoEquals", "Opg07_IfElse_7_2_TwoEquals\Opg07_IfElse_7_2_TwoEquals.csproj", "{54328832-8032-41DE-B94C-871000044AE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_3_Division", "Opg07_IfElse_7_3_Division\Opg07_IfElse_7_3_Division.csproj", "{E240C66C-A500-44B2-A838-0E9ECD20C57E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg07_IfElse_7_3_Division", "Opg07_IfElse_7_3_Division\Opg07_IfElse_7_3_Division.csproj", "{E240C66C-A500-44B2-A838-0E9ECD20C57E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_4_LargestNumber", "Opg07_IfElse_7_4_LargestNumber\Opg07_IfElse_7_4_LargestNumber.csproj", "{000C5A86-1867-4A50-BB6D-A8BCA407F681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg07_IfElse_7_4_LargestNumber", "Opg07_IfElse_7_4_LargestNumber\Opg07_IfElse_7_4_LargestNumber.csproj", "{000C5A86-1867-4A50-BB6D-A8BCA407F681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_5_AscendingOrder", "Opg07_IfElse_7_5_AscendingOrder\Opg07_IfElse_7_5_AscendingOrder.csproj", "{EA92C051-719F-4FA5-9B2B-7B1393278DB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg07_IfElse_7_5_AscendingOrder", "Opg07_IfElse_7_5_AscendingOrder\Opg07_IfElse_7_5_AscendingOrder.csproj", "{EA92C051-719F-4FA5-9B2B-7B1393278DB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_6_PositiveNegative", "Opg07_IfElse_7_6_PositiveNegative\Opg07_IfElse_7_6_PositiveNegative.csproj", "{302CF41D-9AF9-43AE-85FF-58DA8FBA90D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg07_IfElse_7_6_PositiveNegative", "Opg07_IfElse_7_6_PositiveNegative\Opg07_IfElse_7_6_PositiveNegative.csproj", "{302CF41D-9AF9-43AE-85FF-58DA8FBA90D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_7_Letter", "Opg07_IfElse_7_7_Letter\Opg07_IfElse_7_7_Letter.csproj", "{C9BEB8BA-DFAE-4F38-8FE2-E8469AFDFB4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg07_IfElse_7_7_Letter", "Opg07_IfElse_7_7_Letter\Opg07_IfElse_7_7_Letter.csproj", "{C9BEB8BA-DFAE-4F38-8FE2-E8469AFDFB4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg07_IfElse_7_8_ExpressLetter", "Opg07_IfElse_7_8_ExpressLetter\Opg07_IfElse_7_8_ExpressLetter.csproj", "{F538EE1D-DD73-4A1C-B311-B76C97B8B139}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg07_IfElse_7_8_ExpressLetter", "Opg07_IfElse_7_8_ExpressLetter\Opg07_IfElse_7_8_ExpressLetter.csproj", "{F538EE1D-DD73-4A1C-B311-B76C97B8B139}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_BooleanAlgebra", "Demo_BooleanAlgebra\Demo_BooleanAlgebra.csproj", "{6F1F3F2C-8C83-46FB-9964-8356EBE516A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opg08_BooleanAlgebra", "Opg_08_BooleanAlgebra\Opg08_BooleanAlgebra.csproj", "{922824CA-7CEE-4D7D-A50E-79CE8541E34A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg11_While_2", "Opg11_While_2\Opg11_While_2.csproj", "{10C96A75-5D79-42E4-A310-3973A93A2C13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{F538EE1D-DD73-4A1C-B311-B76C97B8B139}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F538EE1D-DD73-4A1C-B311-B76C97B8B139}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F538EE1D-DD73-4A1C-B311-B76C97B8B139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1F3F2C-8C83-46FB-9964-8356EBE516A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1F3F2C-8C83-46FB-9964-8356EBE516A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1F3F2C-8C83-46FB-9964-8356EBE516A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1F3F2C-8C83-46FB-9964-8356EBE516A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922824CA-7CEE-4D7D-A50E-79CE8541E34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922824CA-7CEE-4D7D-A50E-79CE8541E34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922824CA-7CEE-4D7D-A50E-79CE8541E34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922824CA-7CEE-4D7D-A50E-79CE8541E34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C96A75-5D79-42E4-A310-3973A93A2C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C96A75-5D79-42E4-A310-3973A93A2C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C96A75-5D79-42E4-A310-3973A93A2C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C96A75-5D79-42E4-A310-3973A93A2C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
