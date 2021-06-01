@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace Opg_08_BooleanAlgebra
@@ -91,6 +92,18 @@ namespace Opg_08_BooleanAlgebra
             {
 
             }
+
+            string[] arr = new string[10];
+            string[] biggerArr = new string[15];
+            Array.Copy(arr, biggerArr, arr.Length);
+            arr = biggerArr;
+            arr[10] = "ny streng her";
+
+            byte myByte = 1;
+            int i = myByte;
+
+            int myInt = -255;
+            byte myOtherByte = (byte)myInt;
         }
     }
 }
