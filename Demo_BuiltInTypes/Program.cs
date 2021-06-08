@@ -7,17 +7,37 @@ namespace Demo_BuiltInTypes
     {
         static void Main(string[] args)
         {
-            Console.Write("Indtast din fødseldag: ");
-            string input = Console.ReadLine();
-            DateTime birthDate = Convert.ToDateTime(input);
-            TimeSpan daysOld = DateTime.Today - birthDate;
-            Console.WriteLine($"Du er {daysOld.Days} dage gammel.");
+            bool done = false;
+            string input = "";
+
+            while(!done)
+            {
+                Console.Write("Indtast din fødseldag: ");
+                input = Console.ReadLine();
+                bool isCorrect = DateTime.TryParse(input, out DateTime date);
+                if(isCorrect)
+                {
+                    string output = "";
+                    int age = 2021 - date.Year;
+                    if(age >= 16)
+                    {
+                        output += "Kan købe øl\n";
+                    }
+                    if(age >= 17)
+                    {
+                        output += "Kan køre bil\n";
+                    }
+                    if(age >= 18)
+                    {
+                        output += "Kan købe spiritus\n";
+                    }
+                    Console.WriteLine(output);
+                }
+                else
+                {
+                    Console.WriteLine("Prøv igen");
+                }
+            }
         }
     }
 }
-
-            
-
-
-
-//DateTime dt = null; //default;
