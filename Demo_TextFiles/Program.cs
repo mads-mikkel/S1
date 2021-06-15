@@ -31,7 +31,6 @@ namespace Demo_TextFiles
             // 5 igen
             content = File.ReadAllText(fullPath);
             Console.WriteLine(content);
-            string.Concat()
 
         }        
     }
