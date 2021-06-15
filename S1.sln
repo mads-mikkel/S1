@@ -55,9 +55,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_Methods", "Demo_Method
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_BuiltInTypes", "Demo_BuiltInTypes\Demo_BuiltInTypes.csproj", "{B152871A-9EB3-4AA5-9354-0702417E366A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_TextFiles", "Demo_TextFiles\Demo_TextFiles.csproj", "{1DFA142D-1C25-4F0D-83B8-415EAE00C368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_TextFiles", "Demo_TextFiles\Demo_TextFiles.csproj", "{1DFA142D-1C25-4F0D-83B8-415EAE00C368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_TextFiles_Data", "Demo_TextFiles_Data\Demo_TextFiles_Data.csproj", "{A26DA689-62C6-4036-A10E-5CF8B9077398}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_TextFiles_Data", "Demo_TextFiles_Data\Demo_TextFiles_Data.csproj", "{A26DA689-62C6-4036-A10E-5CF8B9077398}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_TextFiles_Alternatives", "Demo_TextFiles_Alternatives\Demo_TextFiles_Alternatives.csproj", "{5927D1BA-895D-40F9-936A-091118AFF982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_MovieApp", "Demo_MovieApp\Demo_MovieApp.csproj", "{FCF36095-F95D-4B3B-8A9A-B595A524C258}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +181,14 @@ Global
 		{A26DA689-62C6-4036-A10E-5CF8B9077398}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A26DA689-62C6-4036-A10E-5CF8B9077398}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A26DA689-62C6-4036-A10E-5CF8B9077398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5927D1BA-895D-40F9-936A-091118AFF982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5927D1BA-895D-40F9-936A-091118AFF982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5927D1BA-895D-40F9-936A-091118AFF982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5927D1BA-895D-40F9-936A-091118AFF982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF36095-F95D-4B3B-8A9A-B595A524C258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF36095-F95D-4B3B-8A9A-B595A524C258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF36095-F95D-4B3B-8A9A-B595A524C258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF36095-F95D-4B3B-8A9A-B595A524C258}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
